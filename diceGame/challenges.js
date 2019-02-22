@@ -3,7 +3,7 @@ GAME RULES:
 
 - Players Set the Score limit, if not score limit is given limit is 100
 - If a player rolls a 1 his turn gets skipped
-If a player rolls double 6's he loses his entire score 
+If a player rolls double 6's twice he loses his entire score 
 
 */
 
